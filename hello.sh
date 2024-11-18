@@ -1,5 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 
 echo "hello cdac atcts DITISS-IITM-DEVOPS"
-echo "from developer 1"
-
+echo "from develeoper1"
+echo "from developer2"
